@@ -1,0 +1,37 @@
+Uniscan - Brutes for Filenames on the Domain.
+------------------------
+
+####################################
+# Uniscan project                  #
+# http://uniscan.sourceforge.net/  #
+####################################
+V. 6.3
+
+
+Scan date: 27-6-2021 8:20:50
+===================================================================================================
+| Domain: http://noobhacker.com/
+| Server: cloudflare
+| IP: 3.223.115.185
+===================================================================================================
+|                                                                                                   
+| File check:
+| Skipped because http://noobhacker.com/uniscan295/ did not return the code 404
+===================================================================================================
+===================================================================================================
+Scan end date: 27-6-2021 8:21:4
+
+
+
+HTML report saved in: report/noobhacker.com.html
+
+
+Nmap - Performs a Full TCP Port Scan
+------------------------
+
+Host discovery disabled (-Pn). All addresses will be marked 'up' and scan times will be slower.
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-06-27 08:21 UTC
+Stats: 0:00:13 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 0.70% done
+
+
